@@ -1,0 +1,27 @@
+.app-container {
+  background-color: #000000;
+  background-size: cover;
+  padding-bottom: 20px;
+}
+.banner-image {
+  width: 100%;
+}
+.title {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.bottom-section {
+  padding: 20px;
+}
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
